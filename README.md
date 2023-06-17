@@ -2,7 +2,7 @@
 
 display a very bright white color on HDR-enabled displays with ~1 KB of video file
 
-https://github.com/dtinth/superwhite/assets/193136/a3340ffb-040b-4ec0-b6d6-9f73f7024831
+https://github.com/dtinth/superwhite/assets/193136/311aac17-ff89-4700-a080-98dbe4424cbd
 
 if you view [this page](https://github.com/dtinth/superwhite#readme) with a recent iPhone or iPad with low-power mode turned off, you should see a very bright white color above. on a Mac displays with HDR support, you should see a white color that is brighter than `#ffffff`. on unsupported displays, you should see a normal white color.
 
