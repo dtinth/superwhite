@@ -1,0 +1,23 @@
+{
+  "name": "superwhite",
+  "version": "0.1.0",
+  "description": "display a very bright white color on HDR-enabled displays",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "superwhite.mp4"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtinth/superwhite.git"
+  },
+  "author": "dtinth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dtinth/superwhite/issues"
+  },
+  "homepage": "https://github.com/dtinth/superwhite#readme"
+}
