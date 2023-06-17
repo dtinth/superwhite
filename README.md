@@ -1,4 +1,4 @@
-# superwhite
+# superwhite [![npm](https://img.shields.io/npm/v/superwhite.svg)](https://www.npmjs.com/package/superwhite)
 
 display a very bright white color on HDR-enabled displays with ~1 KB of video file
 
