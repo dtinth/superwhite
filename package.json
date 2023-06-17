@@ -1,6 +1,6 @@
 {
   "name": "superwhite",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "display a very bright white color on HDR-enabled displays",
   "main": "index.js",
   "files": [
