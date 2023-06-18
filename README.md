@@ -31,7 +31,7 @@ data:video/mp4;base64,AAAAHGZ0eXBpc29tAAACAGlzb21pc28ybXA0MQAAAAhmcmVlAAAAvG1kYX
 
 I used Final Cut Pro.
 
-- Create a library with **Wide Gamut HDE** color processing setting.
+- Create a library with **Wide Gamut HDR** color processing setting.
 - Create a project.
 - Add a solid white color generator.
   - Set **Color** to **Bright White.**
