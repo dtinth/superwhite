@@ -8,6 +8,8 @@ if you view [this page](https://github.com/dtinth/superwhite#readme) with a rece
 
 for example of a practical usage, see: <https://notes.dt.in.th/HDRQRCode>
 
+please don’t abuse this
+
 ## As data URL
 
 ```
