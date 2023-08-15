@@ -4,8 +4,7 @@
   "description": "display a very bright white color on HDR-enabled displays",
   "main": "index.js",
   "files": [
-    "index.js",
-    "superwhite.mp4"
+    "index.js"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
